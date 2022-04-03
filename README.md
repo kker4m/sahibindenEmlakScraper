@@ -10,7 +10,7 @@
 
 #### Kullanmadan once ;
 
--Excel ayarlarindan gelisitirici arayuzunu aciktiktan sonra  **.xlsm ** uzantili excel dosyasini acip makro ayarlamalarindan scriptlerin lokasyonunu kendi cihaziniza gore girmeniz gerekiyor. ( ilanVeVeritabani.py konumu , FiltreleriCek konumu ve python.exe konumu )
+-Excel ayarlarindan gelisitirici arayuzunu aciktiktan sonra  ** .xlsm ** uzantili excel dosyasini acip makro ayarlamalarindan scriptlerin lokasyonunu kendi cihaziniza gore girmeniz gerekiyor. ( ilanVeVeritabani.py konumu , FiltreleriCek konumu ve python.exe konumu )
 
 -Python'u yükledikten sonra terminali yönetici olarak çalıştırın ve indirdiğiniz klasörün içerisinde kodu çalıştırın ;
 
